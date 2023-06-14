@@ -147,7 +147,7 @@ header {
 
 .quote-author {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 /* FOURTH SECTION */
@@ -186,5 +186,5 @@ header {
   display: flex;
   background-color: #1f2937;
   color: white;
-  flex: 1 10vh;
+  flex: 1 12vh;
 }
