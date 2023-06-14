@@ -120,3 +120,34 @@ header {
 .card-info {
   width: 200px;
 }
+
+/* THIRD SECTION */
+
+.third-section {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  flex: 1 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-container {
+  display: flex;
+  align-items: flex-end;
+  width: 750px;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+}
+
+.quote-author {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* FOURTH SECTION */
