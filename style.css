@@ -151,3 +151,40 @@ header {
 }
 
 /* FOURTH SECTION */
+
+.fourth-section {
+  flex: 1 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cta-container {
+  background-color: #3882f6;
+  border-radius: 10px;
+  color: white;
+  padding: 40px 80px;
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cta-title {
+  font-weight: bold;
+}
+
+.cta-btn {
+  border-color: white;
+}
+
+/* FOOTER */
+
+.footer {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: #1f2937;
+  color: white;
+  flex: 1 10vh;
+}
